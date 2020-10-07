@@ -1,4 +1,4 @@
-# Python Project
+# Python Project on Apriori algorithm 
 Using Apriori Algorithm, generate and print out all the association rules and the input transactions for any transaction database. 
 The dataset, support and confidence should be user-determined parameter values.
 
