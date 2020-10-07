@@ -3,5 +3,6 @@ Using Apriori Algorithm, generate and print out all the association rules and th
 The dataset, support and confidence should be user-determined parameter values.
 
 # How to run
-python Algo.py datasetname {minimum support(in percentage)} {minimum confidence(in percentage)}
-python Algo.py datasetname 40 50
+python <apriori_sc_js.py>  <dataset_file>  <Minimum Support>  <Minimum Confidence>
+
+/n Example python apriori_sc_js.py ds_grocery.txt 20 30
