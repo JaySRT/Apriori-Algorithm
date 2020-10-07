@@ -5,4 +5,4 @@ The dataset, support and confidence should be user-determined parameter values.
 # How to run
 python <apriori_sc_js.py>  <dataset_file>  <Minimum Support>  <Minimum Confidence>
 
-Example python apriori_sc_js.py ds_grocery.txt 20 30
+Example: python apriori_sc_js.py ds_grocery.txt 20 30
