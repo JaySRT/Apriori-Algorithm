@@ -1,0 +1,20 @@
+1 Bread, Butter, Cocoa, Milk
+2 Tea, Coffee, Milk, Banana, Apple
+3 Apple, Orange, Banana, Milk, Coffee
+4 Juice, ProteinPowder, Milk
+5 Soda, Bread, Butter, Chicken
+6 Bread, Butter, Oats
+7 Banana, Milk, Coffee, Oats
+8 Orange, Banana, Milk
+9 Bread, ProteinPowder, Butter, Cocoa, Milk, Tea, Coffee, Juice
+10 Milk, Juice, ProteinPowder, Orange
+11 Tea, Coffee, juice, Banana, Oats
+12 Apple, Milk, Chicken
+13 Butter, Milk, ProteinPowder
+14 Cocoa, Juice, Milk, Tea
+15 Banana, ProtrinPowder, Oats, Honey, Chicken
+16 Honey, Chips, Milk, Cocoa, Butter
+17 Soda, Coffee, Bread, Butter
+18 Orange, Oats, Banana, Juice, Chicken
+19 Butter, Chicken, Banana, Oats, ProteinPowder
+20 Soda, Chips, Butter

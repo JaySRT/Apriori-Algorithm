@@ -1,0 +1,20 @@
+1 Chips, Deodrant, Spoons, Glares, Napkins, Plates
+2 Bowl, Spoons, Soda, Foils, Jar
+3 Plates, Soda, Glass, PaperDish
+4 Lamp,	Glass, Jar, Deodrant
+5 Knife, Jar, Curtains
+6 Bag, Curtains, Bowl, Chips, Napkins
+7 GreetingCard, Sanitizer, Plates, Deodrant
+8 Glares, Baskets, Lamp
+9 Foils, Trash_bags, Sanitizer
+10 PaperDish, Napkins, Baskets, Curtains
+11 Deodrant, Chips, Trash_bags, Sanitizer
+12 Spoons, Bowl, Napkins
+13 Soda, Plates, Glares, Bag
+14 Glass, Lamp, Foils, Baskets, Chips
+15 Jar, Knife, PaperDish
+16 Curtains, Bag, Deodrant
+17 Sanitizer, GreetingCard, Chips, Knife
+18 Baskets, Glares, Bowl, Bag
+19 Trash_bags, Foils, Plates, GreetingCard
+20 Napkins, PaperDish, Lamp, Glares

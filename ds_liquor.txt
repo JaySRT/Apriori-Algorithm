@@ -1,0 +1,20 @@
+1 Cabernet, Beer, Tequila, Popcorns, Cigar
+2 Merlot, Soda,	Beer, OrabgeJuice
+3 Sauvignon, Rum, Chips, Stout,	Peanuts
+4 Rose, Lime, Chips
+5 Red, Cognac, Redbull
+6 OrangeJuice, Tequila, IPA, Sangria, Chocolates, Cigar
+7 Bourbon, Soda, Redbull
+8 Scotch, Soda, Peanuts, Lime
+9 Gin, Lime, Peanuts
+10 Vodka, OrangeJuice, Popcorns
+11 Lime, Vodka, OrangeJuice, Sauvignon, Cigar
+12 Chips, OrangeJuice, Cognac, IPA
+13 Chocolates, OrangeJuice, Beer
+14 LagerBeer, Soda, Scotch, Cigar
+15 Stout, Chips
+16 Water, Tequila, OrangeJuice, Cigar
+17 IPA, Chips, Peanuts
+18 Beer, Merlot, Cigar
+19 Cognac, OrangeJuice, Sauvignon, Redbull, Peanuts, Cigar
+20 Sangria, Sauvignon, Redbull

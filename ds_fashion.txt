@@ -1,0 +1,20 @@
+1 Joggers, Jacket, Tshirt, Shorts, Sneakers
+2 Tshirt, WristWatch, Belt
+3 Shirt, Jeans, Blazer, Tie, Perfume
+4 Jeans, Shirt, Belt
+5 Jacket, Tshirt, WristWatch
+6 Hoodie, Tshirt, Perfume, Shorts, Sneakers, Belt
+7 Shorts, SlipOns, Perfume
+8 Belt, Blazer, Tie, WristWatch
+9 Tie, Trouser, Shirt, Belt
+10 WristWatch, Tshirt, Shoes
+11 Sneakers, Trouser, Tshirt
+12 SlipOns, WristWatch, Tshirt, Perfume
+13 Shoes, Tie, Jacket
+14 Wallet, Blazer, Tie, WristWatch
+15 Perfume, WristWatch, Belt, Tshirt
+16 Blazer, Tie, SlipOns
+17 Belt, Blazer, Tie, WristWatch, Perfume
+18 Trouser, Sneakers, Tshirt
+19 Jacket, Tshirt, Shorts, Sneakers
+20 Tshirt, Perfume, Blazer, Tie

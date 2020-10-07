@@ -1,0 +1,20 @@
+1 DataCable, iWatch, iPhone, Airpods, Fitness+
+2 iWatch, Airpods, Fitness+, LAFitness
+3 Airpods, Mobile, ExtensionChord
+4 iWatch, iPhone
+5 ExtensionChord, Airpods
+6 Fitness+, iPhone, ExtensionChord, DataCable, iWatch
+7 Bluetooth, Airpods, iWatch
+8 Fitness+, Bluetooth, Airpods, iWatch
+9 Airpods, DataCable, LAFitness
+10 Fitness+, ExtensionChord, Mobile, Bluetooth
+11 LAFitness, iWatch
+12 Fitness+, Bluetooth, iWatch, Mobile
+13 ExtensionChord, Airpods
+14 DataCable, Mobile, Bluetooth
+15 LAFitness, Airpods, ExtensionChord
+16 iWatch, Fitness+
+17 Bluetooth, Airpods
+18 ExtensionChord, Bluetooth, Airpods
+19 LAFitness
+20 iWatch, Airpods, ExtensionChord, Fitness+
